@@ -13,7 +13,7 @@ Cria o servidor de testes locais
 ## Arquitetura de Arquivos
 
  - `./src` -- Arquivos `.js` de configuração de libs
- - `./src/assets` -- Arquivos que serão utilizados como sua API de mentirinha!
+ - `./src/assets` -- Arquivos que serão utilizados para simular sua API!
  - `./src/pages` -- Arquivos `.js` que descrevem componentes React que representam uma página acessável pelo Router, ou pastas contendo um componente React principal agregador e subcomponentes específicos
  - `./src/state` -- Arquivos `.js` de slices do Redux Toolkit que abrigam o estado global da aplicação
 
